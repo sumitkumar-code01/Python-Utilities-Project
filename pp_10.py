@@ -21,9 +21,6 @@ Building a Caesar Cipher
          
 '''
 
-
-# Day 10 Challenge: Caesar Cipher Project
-
 def start_program():
     print("Secret message program")
     
