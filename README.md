@@ -4,7 +4,8 @@ Welcome to my Python learning journey! This repository contains a collection of 
 
 # Projects Included
 
-Here is the list of utilities developed from PP 1 to PP 9:
+Here is the list of utilities developed from PP 1 to PP 9. 
+Each Project focuses on a unique use case:
 
 * **PP 1: Self-Intro Script Generator** - Automates personalized introductions.
 * **PP 2: Stylish Bio Generator** - Creates cool bios for Instagram/Twitter.
